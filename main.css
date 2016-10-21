@@ -14,6 +14,26 @@ input {
     background-repeat: no-repeat;
     background-position: right;
 }
+footer {
+	background-color: #f2f2f2;
+}
+footer ul{
+	list-style: none;
+	display: inline-block;
+	line-height: 50px;
+	margin-bottom: 0;
+}
+footer ul li{
+	display: inline-block;
+	font-size: 15px;
+	vertical-align: middle;
+	color: #666;
+	font-family: arial,sans-serif;
+	padding-left: 8px;
+	padding-right: 8px;
+}
+
+
 
 /*classes*/
 .navbar-right{
@@ -40,12 +60,18 @@ input {
 	margin-left: auto;
 	margin-right: auto;
 	width: 450px;
+	margin-bottom: 270px;
 }
 #word {
 	color: #808080;
 }
-#nav {
-	
+#siteFoot {
+	padding-left: 0;
+	margin-left: 15px;
+}
+#userFoot {
+	float: right;
+	margin-right: 15px;
 }
 
 
