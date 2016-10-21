@@ -53,14 +53,16 @@ footer ul li{
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 70px;
-	padding-top: 220px;
+	padding-top: 180px;
 }
 #searchBar input{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 450px;
-	margin-bottom: 270px;
+	width: 500px;
+	height: 40px;
+	margin-bottom: 300px;
+	
 }
 #word {
 	color: #808080;
